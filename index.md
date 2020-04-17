@@ -7,6 +7,13 @@ keywords:
 title: AP Course Title # This is where the course title goes.
 description: You should place the description of the course here. Here is our guide to the AP Course Title course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. # This is a description of the course.
 
+# Author box
+author:
+    title: Contributors
+    title_url: '#'
+    external_url: true
+    description: See who contributed to these notes. 
+
 # Courses
 grid_navigation:
     - title: About the Course
@@ -31,7 +38,7 @@ units:
       url: '/dynamics'
 
     - title: Unit 2 - Rotational Motion
-      excerpt: Rotational motion, torque, moments of inertia. 
+      excerpt: Rotational motion, torque, moments of inertia.
       cta: Review
       url: '#'
 
