@@ -1,2 +1,2 @@
-# template
-Template for course page. 
+# Template
+This is a template for each individual course directory in apcram. 
