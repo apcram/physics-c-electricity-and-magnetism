@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: '/template' # Change this to match the course you're creating the review guide for.
+    baseurl: '/physics-c-electricity-and-magnetism' # Change this to match the course you're creating the review guide for.
     color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
