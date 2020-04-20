@@ -1,29 +1,3 @@
-<style>
-body {
-    color: #333;
-    font-family: "Noto Sans",sans-serif;
-    font-size: 1em;
-    line-height: 1.8em;
-}
-h1 {
-    font-family: "Montserrat",sans-serif;
-    font-weight: 400;
-    line-height: 1.5em;
-    margin: 2.5rem 0 .9375rem 0;
-}
-
-.callout {
-    border: 2px solid #efefef;
-    background-color: #f9f9f9;
-    padding: .9375rem 1.25rem .625rem 1.25rem;
-    margin: 0 0 1.25rem 0;
-}
-.callout--info {
-    background-color: #f2f8ff;
-    border-color: #deedff;
-}
-</style>
-
 #Conductors
 ##Properties of Conductors
 - Charge moves freely in a conductor. Technically, only electrons move freely, but you are allowed to assume that both positive and negative charges move around, and all the math works out the same.
