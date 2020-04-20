@@ -10,7 +10,7 @@ description: You should place the description of the course here. Here is our gu
 # Author box
 author:
     title: Contributors
-    title_url: '#'
+    title_url: '/conributors'
     external_url: true
     description: See who contributed to these notes. 
 
@@ -32,19 +32,24 @@ grid_navigation:
       url: '#'       
 
 units:
-    - title: Unit 1 - Dynamics
+    - title: Unit 1 - Electrostatics
       excerpt: Newtonian motion, friction, circular motion, etc.
       cta: Review
-      url: '/dynamics'
+      url: '/unit-1'
 
-    - title: Unit 2 - Rotational Motion
+    - title: Unit 2 - Conductors, Capacitors, and Dielectrics
       excerpt: Rotational motion, torque, moments of inertia.
       cta: Review
-      url: '#'
+      url: '/unit-2'
 
-    - title: Unit 3 - Something
+    - title: Unit 3 - Electric Circuits
       excerpt: Everything you need to know about this thing.
       cta: Review
-      url: '#'
+      url: '/unit-3'
+      
+    - title: Unit 4 - Magnetic Fields
+      excerpt: Everything you need to know about this thing.
+      cta: Review
+      url: '/unit-4'
 
 ---
