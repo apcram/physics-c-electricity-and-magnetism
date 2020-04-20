@@ -1,5 +1,5 @@
-#Electric Current
-##Current
+# Electric Current
+## Current
 - Electric current is defined as the amount of charge that passes through a region every second. It follows the formula:
 \\[I=\frac{dQ}{dt}\\]
 where \\(I\\) is electric current, \\(Q\\) is the amount of charge that has passed through a point in a circuit, and \\(t\\) is time
@@ -11,7 +11,7 @@ where \\(I\\) is current, \\(\overrightarrow J\\) is current density, and \\(\ov
 \\[I=Nev_dA\\]
 where \\(N\\) is the number of charge carriers per unit volume, \\(e\\) is the elementary charge, \\(A\\) is cross-sectional area, and \\(v_d\\) is drift velocity: the average velocity that charge carriers move in the wire. \\(v_d\\) is usually extremely slow.
 
-##Resistance
+## Resistance
 - The motion of charge is driven by a potential difference, or voltage (\\(V\\)), which creates an electric field in the wire (remember \\(E=\frac{dV}{dr}\\)), pushing charge through it. Additionally, resistance (\\(R\\)) is a property of a conductor which resists the motion of charge. Ohm's Law relates voltage, current, and resistance:
 \\[V=IR\\]
 - The resistance of a conductor can be calculated with the equation:
@@ -26,13 +26,13 @@ You can find current density: \\(J=\frac IA=Nev_d\\)
 You can then calculate voltage: \\(V=El=\rho J l=\rho Nev_d l\\)  
 Then you can find resistance: \\(R=\frac VI=\frac{\rho Nev_dl}{Nev_dA}=\frac{\rho l}A\\)
  
-##Power
+## Power
 - When current flows through a resistor, the kinetic energy of moving charge carriers is converted to heat.
 - Power (\\(P\\)) in a circuit is the amount of energy converted to heat per second. It follows the formula:
 \\[P=IV=I^2R=\frac{V^2}R\\]
 
-#Circuits with resistors and batteries
-##Series and Parallel Circuits
+# Circuits with resistors and batteries
+## Series and Parallel Circuits
 - Series circuits have resistors arranged like this:  
 <center>![](series.png)</center>
 - The total resistance of a series circuit is equal to the sum of the resistances of all the individual resistors. This is expressed mathematically as:
@@ -44,17 +44,17 @@ Then you can find resistance: \\(R=\frac VI=\frac{\rho Nev_dl}{Nev_dA}=\frac{\rh
 \\[\frac 1{R_p}=\sum_i\frac1{R_i}\\]
 - In a parallel circuit, the voltage across each branch is the same.
 
-##Kirchoff's Rules
+## Kirchoff's Rules
 - Current rule: the total current entering a junction must be equal to the total current leaving that junction.
 - Loop rule: If you add up the voltage differences across any closed loop in a circuit, the result will be zero.
 
-##Other Circuit Components
+## Other Circuit Components
 - Ammeters measure current. An ideal ammeter has negligible resistance and must be placed in series with a circuit to determine the current flowing through it.
 - Voltmeters measure voltage. An ideal voltmeter has very large or infinite resistance and must be placed in parallel with a circuit.
 - Batteries may have internal resistance.
 
-#RC Circuits
-##Capacitance
+# RC Circuits
+## Capacitance
 - Remember the formula for capacitance:
 \\[C=\frac QV\\]
 - If you have multiple capacitors wired in parallel, they will behave as a single capacitor with a capacitance following the formula
@@ -64,7 +64,7 @@ Then you can find resistance: \\(R=\frac VI=\frac{\rho Nev_dl}{Nev_dA}=\frac{\rh
 - When capacitors are wired in parallel, the total charge stored in the circuit is equal to the sum of the charges stored on each capacitor.
 - When capacitors are wired in series, each has the same charge \\(Q\\), and the total charge stored in the circuit is equal to \\(Q\\)
 
-##Behavior
+## Behavior
 - RC circuits contain resistors and capacitors. \\(R\\) denotes the equivalent resistance of all the resistors, and \\(C\\) denotes the equivalent resistance of all the capacitors.
 - Capacitors take time to charge and dicharge.
 - When a capacitor charges, the voltage, charge, and current in the capcitor as a function of time can be found by solving a differential equation. You don't need to solve this equation on the exam; you should just know that the equation will always contain a factor of \\(e^{-\frac t{RC}}\\)
