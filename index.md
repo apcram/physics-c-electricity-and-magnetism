@@ -10,7 +10,7 @@ description: You should place the description of the course here. Here is our gu
 # Author box
 author:
     title: Contributors
-    title_url: '/conributors'
+    title_url: '/contributors'
     external_url: true
     description: See who contributed to these notes. 
 
