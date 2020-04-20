@@ -1,6 +1,6 @@
 # Charge Distributions
 ## Density
-- Charge density describes the amount a charge per unit length, area, or volume. Linear (length) charge density is represented by $\lambda$, surface (area) charge density is represented by \(\sigma\), and volume charge density is denoted as $$\rho$$
+- Charge density describes the amount a charge per unit length, area, or volume. Linear (length) charge density is represented by \\(\lambda\\), surface (area) charge density is represented by \\(\sigma\\), and volume charge density is denoted as $$\rho$$
 - The different types of density follow the equations: 
 \\[\lambda=\frac Ql \;\;\;\;\;\;\; 
 \sigma=\frac Q A    \;\;\;\;\;\;\;
