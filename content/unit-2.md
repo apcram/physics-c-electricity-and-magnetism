@@ -14,11 +14,11 @@
 
 ##Dielectrics
 - Dielectrics are insulating materials that contain atoms which polarize in an electric field, causing the electric field to decrease in strength. The exact physics behind this is not covered in AP.
-- All you need to know is that dielectrics are characterized by a dielectric constant $$\kappa$$.
-- The electric permitivity $$\epsilon$$ is defined by the formula:
+- All you need to know is that dielectrics are characterized by a dielectric constant \\(\kappa\\).
+- The electric permitivity \\(\epsilon\\) is defined by the formula:
 \\[\epsilon=\kappa\epsilon_0\\]
-- $$\epsilon_0$$ is the electric permitivity of a vacuum. Most situations in AP use $$\epsilon_0$$, But when the vacuum is replaced by a dielectric material, you must use $$\epsilon$$ instead.
-- The dielectric constant of a vacuum is 1, so in a vacuum, $$\epsilon=\epsilon_0$$.
+- \\(\epsilon_0\\) is the electric permitivity of a vacuum. Most situations in AP use \\)\epsilon_0\\), But when the vacuum is replaced by a dielectric material, you must use \\(\epsilon\\) instead.
+- The dielectric constant of a vacuum is 1, so in a vacuum, \\)\epsilon=\epsilon_0\\).
 
 #Capacitors
 ##General
@@ -26,7 +26,7 @@
 - The plates hold equal and opposite charges (the charge on one plate is equal to the negative charge on the other plate)
 - Every capacitor has a capacitance defined by the formula:
 \\[C=\frac Q{\Delta V}\\]
-where $$Q$$ is the charge on each plate and $$\Delta V$$ is the potential difference between the plates
+where \\(Q\\) is the charge on each plate and \\(\Delta V\\) is the potential difference between the plates
 - The electric potential energy stored in a capacitor is:
 \\[U=\frac12 C(\Delta V)^2=\frac12 Q\Delta V=\frac12\frac{Q^2}C\\]
  
