@@ -1,5 +1,5 @@
-#Charge Distributions
-##Density
+# Charge Distributions
+## Density
 - Charge density describes the amount a charge per unit length, area, or volume. Linear (length) charge density is represented by $$\lambda$$, surface (area) charge density is represented by $$\sigma$$, and volume charge density is denoted as $$\rho$$
 - The different types of density follow the equations: 
 \\[\lambda=\frac Ql \;\;\;\;\;\;\; 
@@ -10,19 +10,19 @@
 \\[Q=\int\rho dV\\]
 where $$\rho$$ and $$V$$ can be replaced with the corresponding density and area/length variables needed.
 
-##Symmetry
+## Symmetry
 - A charge distribution is spherically symmetric if you can draw a spherical shell around the center and the surface density is the same at any point on its surface.
 - A charge distribution is cylindrically symmetric if you can draw a cylindrical shell around central line of charge and the surface density is the same at any point on its surface.
 - A charge distribution has planar symmetry if it is a large, flat plane.
 
-#Electrostatic Forces and Energy
-##Coulomb's Law
+# Electrostatic Forces and Energy
+## Coulomb's Law
 - The magnitude of the electrostatic force between two charges is described by Coulomb's Law:
 \\[F=k\frac{q_1q_2}{r^2}=\frac1{4\pi\epsilon_0}\frac{q_1q_2}{r^2}\\]
 where $$F$$ is the magnitude of the force, $$q_1$$ and $$q_2$$ are the charges on each particle, and r is the distance between the particles.
 - $$k$$ denotes Coulomb's constant, and $$\epsilon_0$$ denotes a closely related constant called the vacuum permitivity. The values $$k$$ and $$\frac1{4\pi\epsilon_0}$$ are used interchangeably in Coulomb's law.
 
-##Electric Field
+## Electric Field
 - Electic field is the force that acts on a particle per unit charge on each particle. Force and electric field are related by the formula
 \\[\overrightarrow F=\overrightarrow Eq\\]
 where $$\overrightarrow E$$ is the eletric field vector, $$\overrightarrow F$$ is the electric force vector, and $$q$$ is the charge of the particle being acted upon.
@@ -30,7 +30,7 @@ where $$\overrightarrow E$$ is the eletric field vector, $$\overrightarrow F$$ i
 \\[E=k\frac{q}{r^2}\\]
 where $$k$$ is Coulomb's constant, $$q$$ is the charge, and $$r$$ is the distance from the charge.
 
-##Electric Potential
+## Electric Potential
 - The electric force is associated with electric potential energy just as gravitational force is associated with gravitational potential energy. The electric potential energy of a system of two point charges follows the formula
 \\[U=-k\frac{q_1q_2}{r}\\]
 - Electric potential is defined as the energy per unit charge on an object. Electric potential and energy are both scalar and are related by the formula
@@ -46,8 +46,8 @@ where a and b refer to the starting and ending coordinates
 Note the dot product here. $$\overrightarrow E\cdot d\overrightarrow r$$ is equivalent to $$Er\cos \theta$$. In AP, you will almost always be integrating over a straight line parallel to the electric field, so you usually don't have to worry about $$\cos\theta$$.
 </div>
 
-#Gauss's Law
-##The Formula
+# Gauss's Law
+## The Formula
 - Electric flux ($$\Phi$$) is defined as the total electric field passing through a surface. It follows the formula
 \\[\Phi=\oint \overrightarrow E\cdot d\overrightarrow A\\]
 where $$\overrightarrow E$$ is the electric field vector and $$\overrightarrow A$$ is the area vector. $$\oint$$ denotes a surface integral. You will never need to evaluate this integral in AP. You will almost always use the algebraic form of the rule:
@@ -58,7 +58,7 @@ where $$\overrightarrow E$$ is the electric field vector and $$\overrightarrow A
 \\[\oint E\cdot dA=\frac Q{\epsilon_0}\\]
 The left side of the equation represents electric flux through a closed surface. In AP Physics, this will usually be a sphere, cylinder, or plane. On the right side, $$Q$$ denotes the total charge encolsed within that surface epsilon_0 is the vacuum permitivity.
 	
-##Applications
+## Applications
 - If no charge is enclosed by a closed surface, the net flux through that surface will be 0. The electric flux entering the surface will be equal to the electric flux leaving the surface.
 - For a spherically symmetric charge distribution, you can imagine a sphere enclosing it. The surface area of this sphere is $$4\pi r^2$$, so the total electric flux passing through the sphere is $$\Phi=4\pi r^2E=\frac Q{\epsilon_0}$$. From here, you can use Gauss's law to solve for the electric field strength at any point on the sphere's surface.
 
